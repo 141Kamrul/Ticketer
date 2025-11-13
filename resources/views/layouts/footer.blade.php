@@ -1,0 +1,14 @@
+<footer class="footer mt-auto py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <span class="text-muted">&copy; {{ date('Y') }} Support Ticket System. All rights reserved.</span>
+                </div>
+                <div class="col-md-6 text-md-end">
+                    <a href="#" class="text-muted me-3">Privacy Policy</a>
+                    <a href="#" class="text-muted me-3">Terms of Service</a>
+                    <a href="#" class="text-muted">Contact</a>
+                </div>
+            </div>
+        </div>
+    </footer>
